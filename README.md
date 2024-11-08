@@ -1,10 +1,9 @@
 # Business Site
 
-Replace this readme with your own information about the project. You can include things like:
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
+- Assignment to build a business site using HTML, CSS including buildning a form
+- I felt like I wanted to continue with exotic fruits as i did in my first web development assignemt, buildning a new site
+- If I had more time I would have liked to work out differnt delivery options, a membership option 
 
 ## View it live
 Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
