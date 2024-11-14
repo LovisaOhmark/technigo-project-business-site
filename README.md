@@ -6,4 +6,4 @@
 - If I had more time I would have liked to work out differnt delivery options, a membership option 
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://passionfruitonline.netlify.app
