@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X_UA_Compatible" content="ie=edge">
+  <title>Business Site</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+  <h1>Passion fruit to you </h1>
+
+  <a class="hero-image"> <img src="Passionsfrukt.jpeg" alt="Passionfruit"> </a>
+
+  <a class="form-header">Fill in to order</a>
+
+  <!--Form-->
+
+  <form action="http://httpbin.org/anything" method="post">
+
+    <label> Name <input type="text" name="Name" required> </label>
+
+    <label> E-mail <input type="email" name="Email" required></label>
+
+    <label>
+      <div class="tooltip">Choose weight * <span class="tooltiptext">1kg ≈ 12 fruits </span></div>
+      <select name="Weight" id="">
+        <option value="0.5">0.5 kg</option>
+        <option value="1">1 kg</option>
+        <option value="2">2 kg</option>
+      </select>
+    </label>
+
+    <label> Want our newsletter? <input type="checkbox" name="Newsletter" value="Yes" checked> </label>
+
+    <button type="submit">Order passion fruit </button>
+
+
+
+  </form>
+
+  <!--Footer-->
+
+  </section>
+  <footer class="footer">
+    <p> Created by Lovisa Öhmark web dev bootcamp Technigo 2024 </p>
+  </footer>
+
+</body>
+
+</html>
